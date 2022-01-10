@@ -1,9 +1,9 @@
-CH -- characteristic
+CH - characteristic
 
 ### Authors
 
-Paweł Wojaczek -- https://gitlab.com/pwojx </br>
-Szymon Ciemała -- https://github.com/szymciem8
+Paweł Wojaczek - https://gitlab.com/pwojx </br>
+Szymon Ciemała - https://github.com/szymciem8
 
 # PV-characteristic
 Fast measuring method of creating voltage-current characteristic of a solar panel.
