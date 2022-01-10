@@ -1,3 +1,5 @@
+CH -- characteristic
+
 ### Authors
 
 Paweł Wojaczek -- https://gitlab.com/pwojx </br>
