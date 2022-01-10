@@ -1,6 +1,6 @@
 ### Authors
 
-Paweł Wojaczek -- https://gitlab.com/pwojx
+Paweł Wojaczek -- https://gitlab.com/pwojx </br>
 Szymon Ciemała -- https://github.com/szymciem8
 
 # PV-characteristic
